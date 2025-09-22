@@ -10,8 +10,8 @@
 | move_semantics         | §4.1-2              | 1
 | structs                | §5.1, §5.3          | 1
 | enums                  | §6, §18.3           | 1
-| strings                | §8.2                |
-| modules                | §7                  |
+| strings                | §8.2                | 1
+| modules                | §7                  | 1
 | hashmaps               | §8.3                |
 | options                | §10.1               |
 | error_handling         | §9                  |
