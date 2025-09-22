@@ -2,13 +2,13 @@
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
-| variables              | §3.1                |
-| functions              | §3.3                |
-| if                     | §3.5                |
-| primitive_types        | §3.2, §4.3          |
-| vecs                   | §8.1                |
-| move_semantics         | §4.1-2              |
-| structs                | §5.1, §5.3          |
+| variables              | §3.1                | 1
+| functions              | §3.3                | 1
+| if                     | §3.5                | 1
+| primitive_types        | §3.2, §4.3          | 1
+| vecs                   | §8.1                | 1
+| move_semantics         | §4.1-2              | 1
+| structs                | §5.1, §5.3          | 1
 | enums                  | §6, §18.3           |
 | strings                | §8.2                |
 | modules                | §7                  |
