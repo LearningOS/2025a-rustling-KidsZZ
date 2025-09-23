@@ -13,7 +13,7 @@
 | strings                | §8.2                | 1
 | modules                | §7                  | 1
 | hashmaps               | §8.3                | 1
-| options                | §10.1               |
+| options                | §10.1               | 1
 | error_handling         | §9                  |
 | generics               | §10                 |
 | traits                 | §10.2               |
