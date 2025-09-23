@@ -14,9 +14,9 @@
 | modules                | §7                  | 1
 | hashmaps               | §8.3                | 1
 | options                | §10.1               | 1
-| error_handling         | §9                  |
-| generics               | §10                 |
-| traits                 | §10.2               |
+| error_handling         | §9                  | 1
+| generics               | §10                 | 1
+| traits                 | §10.2               | 1
 | tests                  | §11.1               |
 | lifetimes              | §10.3               |
 | iterators              | §13.2-4             |
