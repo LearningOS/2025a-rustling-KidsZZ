@@ -17,8 +17,8 @@
 | error_handling         | §9                  | 1
 | generics               | §10                 | 1
 | traits                 | §10.2               | 1
-| tests                  | §11.1               |
-| lifetimes              | §10.3               |
+| tests                  | §11.1               | 1
+| lifetimes              | §10.3               | 1
 | iterators              | §13.2-4             |
 | threads                | §16.1-3             |
 | smart_pointers         | §15, §16.3          |
