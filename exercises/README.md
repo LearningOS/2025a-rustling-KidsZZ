@@ -23,5 +23,5 @@
 | threads                | §16.1-3             | 1
 | smart_pointers         | §15, §16.3          | 1
 | macros                 | §19.6               | 1
-| clippy                 | §21.4               |
+| clippy                 | §21.4               | 1
 | conversions            | n/a                 |
