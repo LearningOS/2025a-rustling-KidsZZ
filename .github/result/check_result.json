@@ -1,15 +1,11 @@
 {
   "exercises": [
     {
-      "name": "lifetimes1",
-      "result": false
-    },
-    {
-      "name": "intro2",
+      "name": "generics1",
       "result": true
     },
     {
-      "name": "functions1",
+      "name": "intro2",
       "result": true
     },
     {
@@ -17,11 +13,11 @@
       "result": true
     },
     {
-      "name": "generics1",
+      "name": "move_semantics4",
       "result": true
     },
     {
-      "name": "move_semantics4",
+      "name": "functions1",
       "result": true
     },
     {
@@ -29,11 +25,11 @@
       "result": true
     },
     {
-      "name": "tests1",
+      "name": "if3",
       "result": true
     },
     {
-      "name": "tests4",
+      "name": "lifetimes1",
       "result": true
     },
     {
@@ -41,23 +37,11 @@
       "result": true
     },
     {
-      "name": "if3",
+      "name": "tests4",
       "result": true
     },
     {
-      "name": "traits3",
-      "result": true
-    },
-    {
-      "name": "lifetimes2",
-      "result": false
-    },
-    {
-      "name": "options2",
-      "result": true
-    },
-    {
-      "name": "strings3",
+      "name": "iterators3",
       "result": true
     },
     {
@@ -65,27 +49,27 @@
       "result": true
     },
     {
-      "name": "iterators3",
-      "result": false
+      "name": "options2",
+      "result": true
     },
     {
-      "name": "lifetimes3",
-      "result": false
+      "name": "traits3",
+      "result": true
+    },
+    {
+      "name": "tests1",
+      "result": true
+    },
+    {
+      "name": "strings3",
+      "result": true
+    },
+    {
+      "name": "lifetimes2",
+      "result": true
     },
     {
       "name": "variables1",
-      "result": true
-    },
-    {
-      "name": "iterators4",
-      "result": false
-    },
-    {
-      "name": "move_semantics5",
-      "result": true
-    },
-    {
-      "name": "enums2",
       "result": true
     },
     {
@@ -93,27 +77,7 @@
       "result": true
     },
     {
-      "name": "tests2",
-      "result": true
-    },
-    {
-      "name": "generics2",
-      "result": true
-    },
-    {
-      "name": "options3",
-      "result": true
-    },
-    {
-      "name": "errors4",
-      "result": true
-    },
-    {
-      "name": "iterators1",
-      "result": true
-    },
-    {
-      "name": "traits4",
+      "name": "move_semantics5",
       "result": true
     },
     {
@@ -121,11 +85,39 @@
       "result": true
     },
     {
-      "name": "box1",
-      "result": false
+      "name": "options3",
+      "result": true
+    },
+    {
+      "name": "iterators1",
+      "result": true
+    },
+    {
+      "name": "enums2",
+      "result": true
+    },
+    {
+      "name": "generics2",
+      "result": true
+    },
+    {
+      "name": "errors4",
+      "result": true
+    },
+    {
+      "name": "traits4",
+      "result": true
+    },
+    {
+      "name": "iterators4",
+      "result": true
     },
     {
       "name": "vecs1",
+      "result": true
+    },
+    {
+      "name": "tests2",
       "result": true
     },
     {
@@ -137,15 +129,35 @@
       "result": true
     },
     {
-      "name": "variables2",
-      "result": true
-    },
-    {
       "name": "functions3",
       "result": true
     },
     {
+      "name": "variables2",
+      "result": true
+    },
+    {
+      "name": "primitive_types1",
+      "result": true
+    },
+    {
+      "name": "lifetimes3",
+      "result": true
+    },
+    {
+      "name": "traits5",
+      "result": true
+    },
+    {
       "name": "move_semantics6",
+      "result": true
+    },
+    {
+      "name": "modules1",
+      "result": true
+    },
+    {
+      "name": "errors5",
       "result": true
     },
     {
@@ -157,14 +169,6 @@
       "result": true
     },
     {
-      "name": "traits5",
-      "result": true
-    },
-    {
-      "name": "primitive_types1",
-      "result": true
-    },
-    {
       "name": "traits1",
       "result": true
     },
@@ -173,27 +177,11 @@
       "result": true
     },
     {
-      "name": "iterators5",
-      "result": false
-    },
-    {
-      "name": "rc1",
-      "result": false
-    },
-    {
-      "name": "errors5",
+      "name": "vecs2",
       "result": true
-    },
-    {
-      "name": "cow1",
-      "result": false
     },
     {
       "name": "iterators2",
-      "result": true
-    },
-    {
-      "name": "modules1",
       "result": true
     },
     {
@@ -201,11 +189,11 @@
       "result": true
     },
     {
-      "name": "vecs2",
+      "name": "iterators5",
       "result": true
     },
     {
-      "name": "threads2",
+      "name": "box1",
       "result": false
     },
     {
@@ -213,19 +201,19 @@
       "result": true
     },
     {
-      "name": "arc1",
-      "result": false
-    },
-    {
-      "name": "macros1",
-      "result": false
-    },
-    {
-      "name": "structs1",
+      "name": "primitive_types2",
       "result": true
     },
     {
-      "name": "primitive_types2",
+      "name": "cow1",
+      "result": false
+    },
+    {
+      "name": "threads2",
+      "result": false
+    },
+    {
+      "name": "modules2",
       "result": true
     },
     {
@@ -233,7 +221,11 @@
       "result": true
     },
     {
-      "name": "threads3",
+      "name": "hashmaps3",
+      "result": true
+    },
+    {
+      "name": "macros1",
       "result": false
     },
     {
@@ -241,11 +233,7 @@
       "result": false
     },
     {
-      "name": "macros3",
-      "result": false
-    },
-    {
-      "name": "hashmaps3",
+      "name": "structs1",
       "result": true
     },
     {
@@ -253,7 +241,35 @@
       "result": true
     },
     {
+      "name": "errors6",
+      "result": true
+    },
+    {
       "name": "errors2",
+      "result": true
+    },
+    {
+      "name": "threads3",
+      "result": false
+    },
+    {
+      "name": "move_semantics1",
+      "result": true
+    },
+    {
+      "name": "variables4",
+      "result": true
+    },
+    {
+      "name": "quiz2",
+      "result": false
+    },
+    {
+      "name": "functions5",
+      "result": true
+    },
+    {
+      "name": "primitive_types3",
       "result": true
     },
     {
@@ -261,19 +277,15 @@
       "result": false
     },
     {
-      "name": "variables4",
-      "result": true
+      "name": "macros3",
+      "result": false
     },
     {
-      "name": "modules2",
-      "result": true
+      "name": "rc1",
+      "result": false
     },
     {
-      "name": "errors6",
-      "result": true
-    },
-    {
-      "name": "move_semantics1",
+      "name": "modules3",
       "result": true
     },
     {
@@ -285,20 +297,8 @@
       "result": false
     },
     {
-      "name": "quiz2",
-      "result": false
-    },
-    {
-      "name": "functions5",
-      "result": true
-    },
-    {
       "name": "from_into",
       "result": false
-    },
-    {
-      "name": "primitive_types3",
-      "result": true
     },
     {
       "name": "strings2",
@@ -313,23 +313,15 @@
       "result": true
     },
     {
-      "name": "modules3",
-      "result": true
+      "name": "arc1",
+      "result": false
     },
     {
       "name": "variables5",
       "result": true
     },
     {
-      "name": "tests5",
-      "result": true
-    },
-    {
-      "name": "from_str",
-      "result": false
-    },
-    {
-      "name": "tests6",
+      "name": "if1",
       "result": true
     },
     {
@@ -341,15 +333,11 @@
       "result": true
     },
     {
-      "name": "as_ref_mut",
+      "name": "from_str",
       "result": false
     },
     {
-      "name": "if1",
-      "result": true
-    },
-    {
-      "name": "tests9",
+      "name": "tests5",
       "result": true
     },
     {
@@ -357,15 +345,15 @@
       "result": true
     },
     {
-      "name": "structs3",
+      "name": "as_ref_mut",
+      "result": false
+    },
+    {
+      "name": "tests6",
       "result": true
     },
     {
-      "name": "tests7",
-      "result": true
-    },
-    {
-      "name": "tests8",
+      "name": "tests9",
       "result": true
     },
     {
@@ -373,23 +361,15 @@
       "result": true
     },
     {
-      "name": "algorithm4",
-      "result": false
-    },
-    {
-      "name": "algorithm3",
-      "result": false
-    },
-    {
-      "name": "algorithm1",
-      "result": false
+      "name": "structs3",
+      "result": true
     },
     {
       "name": "move_semantics3",
       "result": true
     },
     {
-      "name": "algorithm2",
+      "name": "algorithm1",
       "result": false
     },
     {
@@ -397,23 +377,35 @@
       "result": true
     },
     {
-      "name": "using_as",
-      "result": false
-    },
-    {
-      "name": "algorithm5",
-      "result": false
+      "name": "tests8",
+      "result": true
     },
     {
       "name": "primitive_types5",
       "result": true
     },
     {
-      "name": "algorithm6",
+      "name": "tests7",
+      "result": true
+    },
+    {
+      "name": "algorithm3",
       "result": false
     },
     {
-      "name": "clippy1",
+      "name": "algorithm4",
+      "result": false
+    },
+    {
+      "name": "algorithm2",
+      "result": false
+    },
+    {
+      "name": "using_as",
+      "result": false
+    },
+    {
+      "name": "algorithm5",
       "result": false
     },
     {
@@ -425,11 +417,19 @@
       "result": false
     },
     {
+      "name": "algorithm6",
+      "result": false
+    },
+    {
       "name": "algorithm8",
       "result": false
     },
     {
       "name": "algorithm9",
+      "result": false
+    },
+    {
+      "name": "clippy1",
       "result": false
     },
     {
@@ -444,8 +444,8 @@
   "user_name": null,
   "statistics": {
     "total_exercations": 110,
-    "total_succeeds": 73,
-    "total_failures": 37,
+    "total_succeeds": 79,
+    "total_failures": 31,
     "total_time": 5
   }
 }
