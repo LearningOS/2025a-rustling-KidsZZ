@@ -6,8 +6,8 @@
 // hint.
 
 // I AM NOT DONE
-
 mod macros {
+    #[macro_export] // 这行是关键，导出宏到父作用域
     macro_rules! my_macro {
         () => {
             println!("Check out my macro!");
